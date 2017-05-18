@@ -7,7 +7,7 @@ body{
 
 }
 .all{
-	margin-top: 180px;
+	margin-top: 160px;
 }
 .logo{
 	position: absolute;
@@ -35,7 +35,7 @@ h3{
 	margin-top: 30px;
 }
 .down{
-	margin-bottom: 20px;
+	margin-bottom: 0;
 }
 h4{
 	margin: 0;
