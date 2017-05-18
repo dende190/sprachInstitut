@@ -1,0 +1,70 @@
+body{
+	background-color: black;
+	background-image: url('../back4.jpg');
+	background-repeat: no-repeat;
+	background-size: 100% 140%;
+
+
+}
+.all{
+	margin-top: 160px;
+}
+.logo{
+	position: absolute;
+	top: 30px;
+	right: 30px;
+}
+.logo img{
+	width: 100px;
+}
+.fa{
+	font-size: 50px;
+	margin: 0 22px;
+}
+h1{
+	font-size: 40px;
+	text-align: center;
+	margin-bottom: 0;
+	color: rgb(181, 1, 1);
+	font-family: 'Arial';
+}
+h3{
+	font-size: 25px;
+}
+.up{
+	margin-top: 30px;
+}
+.down{
+	margin-bottom: 0;
+}
+h4{
+	margin: 0;
+}
+.pagina{
+	color: #1d2632;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.right img{
+	width: 150px;
+}
+.mensaje{
+    position: relative;
+    left: 23%;
+    width: 57%;
+}
+.mensaje p{
+    margin: 20px 0 40px 0;
+    font-size: 22px;
+}
+.mensaje img{
+    width: 92px;
+    position: absolute;
+    right: -105px;
+    bottom: 0;
+}
+footer p{
+	color: white;
+	text-align: center;
+}
