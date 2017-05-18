@@ -50,14 +50,12 @@ h4{
 	width: 150px;
 }
 .mensaje{
-    border-radius: 15px;
-    background: rgba(197, 177, 177, 0.6 );
-    padding: 5px 15px 1px;
     position: relative;
     left: 23%;
     width: 57%;
 }
 .mensaje p{
+    margin: 20px 0 40px 0;
     font-size: 22px;
 }
 .mensaje img{
